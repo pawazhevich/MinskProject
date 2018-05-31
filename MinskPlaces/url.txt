@@ -1,0 +1,4 @@
+localhost:3000/ - main page
+localhost:3000/api/v1/sign_up - sign up page
+localhost:3000/api/v1/sign_up/registration - registration 
+localhost:3000/api/v1/sign_up/registration/questionary - questionary in registration
