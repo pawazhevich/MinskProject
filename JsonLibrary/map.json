@@ -1,0 +1,42 @@
+
+[{
+"nameOfPlace":"Garage",
+"price":"15$",
+"timestart":"15:00",
+"timeend":"23:00",
+"coordinates":"53.906072, 27.530307",
+"maxPeople":"5"
+},
+{
+"nameOfPlace":"Alelie",
+"price":"30$",
+"timestart":"18:00",
+"timeend":"02:00",
+"coordinates":"53.906281, 27.542699",
+"maxPeople":"6"
+},
+{
+"nameOfPlace":"Minsk Cafe",
+"price":"17$",
+"timestart":"19:00",
+"timeend":":00:00",
+"coordinates":"53.895965, 27.553728",
+"maxPeople":"4"
+}
+{
+"nameOfPlace":"iGrill",
+"price":"10$",
+"timestart":"12:00",
+"timeend":"19:00",
+"coordinates":"53.888444, 27.539723",
+"maxPeople":"5"
+}
+{
+"nameOfPlace":"BelCenter",
+"price":"30$",
+"timestart":"23:00",
+"timeend":"05:00",
+"coordinates":"53.890602, 27.520160",
+"maxPeople":"7"
+}
+}
