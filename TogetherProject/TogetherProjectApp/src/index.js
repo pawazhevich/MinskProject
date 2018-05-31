@@ -1,8 +1,8 @@
 import React from 'react'
 import {render} from 'react-dom'
-import App from './components/App.js'
+import Navigation from './components/Navigation'
 import './index.css'
-import Navigation from './Navigation'
+
 
 
 
