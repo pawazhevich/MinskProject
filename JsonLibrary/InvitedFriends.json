@@ -1,0 +1,27 @@
+[{
+  "firstName":"Pavel",
+  "secondName":"Azhevski",
+  "walkTill":12,
+  "walkFor":3,
+  "pub":true,
+  "restaurant":false,
+  "cafe":true
+},
+  {
+    "firstName":"Dmitry",
+    "secondName":"Kozak",
+    "walkTill":2,
+    "walkFor":3,
+    "pub":false,
+    "restaurant":true,
+    "cafe":true
+  },
+  {
+    "firstName":"Julia",
+    "secondName":"Zaharik",
+    "walkTill":6,
+    "walkFor":1,
+    "pub":true,
+    "restaurant":false,
+    "cafe":false
+  }]
