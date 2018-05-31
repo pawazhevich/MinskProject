@@ -76,6 +76,9 @@ class Map extends Component{
                         </div>
                     </div>
                 </div>
+                <a href="/">
+                    <button className="getResult"> Return to main</button>
+                </a>
             </div>
 
         )}

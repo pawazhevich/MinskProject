@@ -31,13 +31,13 @@ state={
                 })
  }>Edit</button>
                 <br/>
-                <div class="cc">Want to walk till:
+                <div class="cc">Want to walk till (hours):
                 <div class="align-right">
                     <button class={this.state.walkTill===12 ? "right":""} onClick={()=>this.setState({walkTill:12})}>12</button>
                     <button class={this.state.walkTill===2 ? "right":""}  onClick={()=>this.setState({walkTill:2})}>2</button>
                     <button class={this.state.walkTill===4 ? "right":""}  onClick={()=>this.setState({walkTill:4})}>4</button>
                     <button class={this.state.walkTill===6 ? "right":""}  onClick={()=>this.setState({walkTill:6})}>6</button><br/></div>
-                </div><div class="cc">Want to walk for:
+                </div><div class="cc">Want to walk for (hours):
                 <div className="align-right">
                     <button class={this.state.walkFor===1 ? "right":"" } onClick={()=>this.setState({walkFor:1})}>1</button>
                     <button class={this.state.walkFor===2 ? "right":""} onClick={()=>this.setState({walkFor:2})}>2</button>
